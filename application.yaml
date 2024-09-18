@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.dev/manish-kaujalgi/argocd-app-deploy.git
+    repoURL: https://github.com/manish-kaujalgi/argocd-app-deploy.git
     targetRevision: HEAD
     path: dev
   destination: 
